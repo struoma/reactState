@@ -1,0 +1,17 @@
+import { useState } from "preact/hooks";
+import "./app.css";
+import React from "preact";
+
+// export const UseStateBasics=()=>{
+
+// return <h2>Hello world</h2>;
+
+// }
+
+export function UseStateBasics() {
+  return (
+    <>
+      <h1>Hello</h1>;
+    </>
+  );
+}
