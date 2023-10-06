@@ -55,30 +55,3 @@ export class Profile extends Component {
 }
 
 export default Profile;
-
-// import React, { Component } from "react";
-// import "./app.css";
-// import "./index.css";
-
-// export class Profile extends Component {
-//   constructor(props) {
-//     super(props);
-
-//     const ButtonChange = () => {
-//       this.setState({
-//         name: "Mbappe",
-//         img: "./Mbappe.png",
-//       });
-//     };
-//   }
-
-//   render() {
-//     return (
-//       <>
-//         <button onClick={this.ButtonChange}>Sub</button>
-//       </>
-//     );
-//   }
-// }
-
-// export default Profile;

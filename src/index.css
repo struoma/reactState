@@ -67,3 +67,11 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.btn {
+  background-color: rgb(59, 7, 7);
+  color: white;
+}
+.profile {
+  margin: auto;
+}
